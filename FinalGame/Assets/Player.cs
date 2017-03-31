@@ -10,7 +10,7 @@ public class Player : MonoBehaviour {
 	void Start () {
 		playing = true;
 
-	public GameObject play;
+	// public GameObject play;
 	// Use this for initialization
 
 	}
