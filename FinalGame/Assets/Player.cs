@@ -12,7 +12,7 @@ public GameObject play;
 		playing = true;
 	}
 	
-	// Update is called once per frame
+	// his is kevin's code
 	void Update () {
 		
 	}
