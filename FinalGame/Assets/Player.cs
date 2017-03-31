@@ -2,10 +2,13 @@
 
 public class Player : MonoBehaviour {
 
-	public GameObject play;
+	int hp;
+public GameObject play;
 	// Use this for initialization
 	void Start () {
-		
+		hp = 10;
+	
+
 	}
 	
 	// Update is called once per frame
